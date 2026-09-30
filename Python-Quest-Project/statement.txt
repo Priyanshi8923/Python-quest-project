@@ -1,0 +1,17 @@
+PROJECT: PYTHON QUEST GAME
+
+OBJECTIVE:
+Create an interactive text-based quiz game to learn Python basics.
+The game has 5 levels. Player enters name and answers MCQ questions.
+Score is given based on attempts.
+
+MODULES:
+1. main.py - Controls game flow
+2. helpers.py - Header, HUD, Question logic
+3. src/unit1.py to unit5.py - Each unit has 1 question
+4. docs/ - Project documentation
+
+RULES:
+- 50 points for correct answer on 1st attempt
+- 25 points for correct answer on 2nd attempt
+- Game continues till all 5 units are completed
